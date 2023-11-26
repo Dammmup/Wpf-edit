@@ -1,0 +1,15 @@
+C:\Users\KazTech\source\repos\editwpf\editwpf\bin\Debug\editwpf.exe.config
+C:\Users\KazTech\source\repos\editwpf\editwpf\bin\Debug\editwpf.exe
+C:\Users\KazTech\source\repos\editwpf\editwpf\bin\Debug\editwpf.pdb
+C:\Users\KazTech\source\repos\editwpf\editwpf\obj\Debug\editwpf.csproj.AssemblyReference.cache
+C:\Users\KazTech\source\repos\editwpf\editwpf\obj\Debug\MainWindow.g.cs
+C:\Users\KazTech\source\repos\editwpf\editwpf\obj\Debug\App.g.cs
+C:\Users\KazTech\source\repos\editwpf\editwpf\obj\Debug\editwpf_MarkupCompile.cache
+C:\Users\KazTech\source\repos\editwpf\editwpf\obj\Debug\editwpf_MarkupCompile.lref
+C:\Users\KazTech\source\repos\editwpf\editwpf\obj\Debug\MainWindow.baml
+C:\Users\KazTech\source\repos\editwpf\editwpf\obj\Debug\editwpf.g.resources
+C:\Users\KazTech\source\repos\editwpf\editwpf\obj\Debug\editwpf.Properties.Resources.resources
+C:\Users\KazTech\source\repos\editwpf\editwpf\obj\Debug\editwpf.csproj.GenerateResource.cache
+C:\Users\KazTech\source\repos\editwpf\editwpf\obj\Debug\editwpf.csproj.CoreCompileInputs.cache
+C:\Users\KazTech\source\repos\editwpf\editwpf\obj\Debug\editwpf.exe
+C:\Users\KazTech\source\repos\editwpf\editwpf\obj\Debug\editwpf.pdb
